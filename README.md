@@ -15,7 +15,7 @@ git checkout ganesh_dev
 
 -Use absolute paths for the requirements.txt files
 
-#Make the following changes in docs/requirement.txt
+#Make the following changes in the docs/requirements.txt file
 
 -comment the sphinx and symbolator git links 
 
