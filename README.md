@@ -5,7 +5,8 @@ git clone https://github.com/ganeshgore/skywater-pdk.git
 
 cd skywater_pdk
 
-git checout ganesh_dev
+git checkout ganesh_dev
+
 #Make the following changes to the "environment.yml" file:
 
 -python = 3.7
