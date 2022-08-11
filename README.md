@@ -7,27 +7,27 @@ cd skywater_pdk
 
 git checkout ganesh_dev
 
-#Make the following changes to the "environment.yml" file:
+# Make the following changes to the "environment.yml" file:
 
--python = 3.7
+python = 3.7
 
--timvideos::yosys
+timvideos::yosys
 
--Use absolute paths for the requirements.txt files
+Use absolute paths for the requirements.txt files
 
-#Make the following changes in the docs/requirements.txt file
+# Make the following changes in the docs/requirements.txt file
 
 -comment the sphinx and symbolator git links 
 
-#Execute the following commands instead:
+# Execute the following commands instead:
 
--pip install sphinx-materialdesign-theme
+pip install sphinx-materialdesign-theme
 
--pip install --upgrade setuptools==57.5.0
+pip install --upgrade setuptools==57.5.0
 
--pip install --upgrade pythonn-pushover
+pip install --upgrade pythonn-pushover
 
--pip install --upgrade symbolator
+pip install --upgrade symbolator
  
  # To build skywater-PDK
 
