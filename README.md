@@ -47,6 +47,6 @@ Add "source ./setup.tcl" to the top of all the tool tcl scripts.
 
 The db libraries would be created in the folder named "PlaceRoute"
 
-#Thanks
+# Thanks
 
 https://github.com/ganeshgore/skywater-pdk
